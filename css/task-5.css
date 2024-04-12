@@ -1,0 +1,19 @@
+.change-color{
+    background-color: #4E75FF;
+    border: none;
+    color: #fff;
+    border-radius: 8px;
+    padding: 8px 16px;
+    font-size: 16px;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 400;
+    max-width: 148px;
+    line-height: 1.5;
+}
+
+.widget{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}

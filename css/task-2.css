@@ -1,0 +1,16 @@
+img{
+    width: 360px;
+height: 300px;
+}
+
+.gallery{
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    list-style: none;
+    flex-wrap: wrap;
+    row-gap: 48px;
+    column-gap: 24px;
+  margin: 0 auto;
+  padding: 0;
+}
